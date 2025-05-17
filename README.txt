@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Running the Program Using Python
 
 ### Step 1: Make sure Python is installed
