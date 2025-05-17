@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac / Linux / Windows OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Environments
+.env
+.env.*
+
+# Other
+*.sqlite3
+*.db
+*.bak
+
+# GitHub Large File Warnings
+*.mp4
+*.avi
+*.mov
+*.gif
+*.zip
+*.tar.gz
+*.whl
