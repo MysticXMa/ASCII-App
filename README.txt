@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Running the Program Using Python
 
 ### Step 1: Make sure Python is installed
@@ -158,3 +159,24 @@ pip install -r requirements.txt
 
 * Run the program from the Command Prompt instead of double-clicking the file.
 * This way, you can see any error messages before the window closes.
+=======
+# README.txt
+
+## How to Run the Program
+
+1. Open the folder where you saved the program.
+
+2. Open the folder named `dist`.
+
+3. Inside the `dist` folder, find the file named `main.exe`.
+
+4. Double-click `main.exe` to start the program.
+
+---
+
+### Important
+
+* No installation or Python setup is needed. The program runs on Windows by simply launching `main.exe`.
+
+* If you have any issues running the program, please contact support.
+>>>>>>> ef6929cd0ce8c1ae8360b5a99ee9c896460d9cb3
